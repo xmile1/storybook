@@ -9,7 +9,7 @@ Storybook is theme-able! Just set a `theme` in the [options parameter](../option
 
 It's really easy to theme Storybook globally.
 
-We've created two basic themes that look good of the box: "normal" (a light theme) and "dark" (a dark theme).
+We've created two basic themes that look good out of the box: "normal" (a light theme) and "dark" (a dark theme).
 
 As the simplest example, you can tell Storybook to use the "dark" theme by modifying `.storybook/config.js`:
 
